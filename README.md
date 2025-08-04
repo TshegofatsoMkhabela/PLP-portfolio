@@ -1,8 +1,12 @@
 # PLP Portfolio
 
-A snapshot of my key projects and learning progress, demonstrating my skills, growth, and passion for software development.
+This is a snapshot of my key projects and learning progress, demonstrating my skills, growth, and passion for software development.
+
+I am a Computer Science student with a passion for building real-world AI and full-stack systems.
 
 ![Screenshot](/public/assets/images/portfolio.PNG)
+
+Check out my portfolio: [View here](https://tshegofatso-mkhabela.vercel.app/)
 
 ## Tech Stack
 
