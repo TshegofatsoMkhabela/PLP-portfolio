@@ -1,0 +1,50 @@
+# PLP Portfolio
+
+A snapshot of my key projects and learning progress, demonstrating my skills, growth, and passion for software development.
+
+## Tech Stack
+
+- React (Vite)
+- JavaScript (ES2020+)
+- CSS
+- HTML 5
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/TshegofatsoMkhabela/PLP-portfolio.git
+cd PLP-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the app:
+
+```bash
+npm run dev
+```
+
+Open in your browser:
+
+```
+http://localhost:5173
+```
+
+## Project Structure
+
+```
+src/
+├── public/
+│ └── assets/
+│     └── docs/
+│     └── images/
+├── src/
+│ └── main.js
+│ └── style.css
+```
