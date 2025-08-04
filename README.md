@@ -2,6 +2,8 @@
 
 A snapshot of my key projects and learning progress, demonstrating my skills, growth, and passion for software development.
 
+![Screenshot](/public/assets/images/portfolio.PNG)
+
 ## Tech Stack
 
 - React (Vite)
