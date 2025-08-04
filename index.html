@@ -70,14 +70,20 @@
               </p>
               <!-- === Tabs (Skills, Projects, Education) === -->
               <div class="tab-titles">
-                <p class="tab-links active-link" onclick="openTab('skills')">
+                <p
+                  class="tab-links active-link"
+                  onclick="openTab(event, 'skills')"
+                >
                   Skills
                 </p>
-                <p class="tab-links" onclick="openTab('projects')">Projects</p>
-                <p class="tab-links" onclick="openTab('education')">
+                <p class="tab-links" onclick="openTab(event, 'projects')">
+                  Projects
+                </p>
+                <p class="tab-links" onclick="openTab(event, 'education')">
                   Education
                 </p>
               </div>
+
               <!-- === Tab Content: Skills === -->
               <div class="tab-contents active-tab" id="skills">
                 <ul>
@@ -195,6 +201,6 @@
       <p>&copy; 2025 Tshegofatso Mkhabela. All rights reserved.</p>
     </footer>
     <!-- ========= JS SCRIPT ========= -->
-    <script src="/public/assets/main.js"></script>
+    <script src="/assets/main.js"></script>
   </body>
 </html>
