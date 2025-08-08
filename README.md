@@ -10,10 +10,9 @@ Check out my portfolio: [View here](https://tshegofatso-mkhabela.vercel.app/)
 
 ## Tech Stack
 
-- React (Vite)
-- JavaScript (ES2020+)
+- JavaScript
 - CSS
-- HTML 5
+- HTML 
 
 ## Getting Started
 
